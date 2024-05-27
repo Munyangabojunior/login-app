@@ -1,5 +1,5 @@
 import React from "react";
 
 export default function Reset() {
-  return <div></div>;
+  return <div>reset</div>;
 }
